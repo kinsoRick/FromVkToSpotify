@@ -1,0 +1,4 @@
+vk-api
+spotipy
+python-dotenv
+colorama

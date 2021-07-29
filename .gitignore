@@ -1,0 +1,8 @@
+vk_config.v2.json
+
+.cache
+.env
+
+output/
+__pycache__/
+env/
